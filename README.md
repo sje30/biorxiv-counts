@@ -9,4 +9,4 @@ month.  (I hope I got all the counts right!).
 
 
 
-![biorxiv-counts.png](Results so far)
+![Results so far](biorxiv-counts.png)
